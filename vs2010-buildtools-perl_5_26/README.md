@@ -1,7 +1,10 @@
 # vs2010-buildtools & Perl 5.26.1.1
-This work is based on **vs2010-buildtools**:
+This work is based on **vs2010-buildtools** & **dockerfiles-windows/perl**:
 ```
 Visit https://github.com/cryptlex/vs2010-buildtools
+```
+```
+Visit https://github.com/StefanScherer/dockerfiles-windows/tree/master/perl
 ```
 
 This provides a pre-build environment for projects created with Visual Studio 2010 and Perl.
